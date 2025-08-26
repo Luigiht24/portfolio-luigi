@@ -1,4 +1,4 @@
-# 🎯 Portfólio Profissional – Luigi Henrique
+ok# 🎯 Portfólio Profissional – Luigi Henrique
 
 Olá! Sou estudante de Marketing com foco em criação de conteúdo digital, social media e edição de vídeos.  
 Este portfólio reúne alguns dos meus projetos, mostrando minha habilidade com HTML, CSS, design visual e produção de conteúdo estratégico.
@@ -16,8 +16,8 @@ Este portfólio reúne alguns dos meus projetos, mostrando minha habilidade com 
 - CapCut
 - Figma (estudando)
 
-📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)  
-📱 Instagram: @seuuser
+📫 Me encontre também no https://www.linkedin.com/in/luigi-henrique-teixeira-de-souza-05ab77362
+📱 Instagram:https://www.instagram.com/luigy.sousa?igsh=ZDlvbDcyYTE1cnlq&utm_source=qr
 
 ---
 Em constante evolução. Obrigado por visitar!
